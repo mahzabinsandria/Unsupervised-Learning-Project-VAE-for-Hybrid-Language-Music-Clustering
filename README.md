@@ -7,10 +7,15 @@ project/
   data/audio/
   
   data/lyrics/
+  
   notebooks/exploratory.ipynb
+  
   src/{vae.py,dataset.py,clustering.py,evaluation.py}
+  
   results/latent_visualization/
+  
   results/clustering_metrics.csv
+  
 **Important** audio files cannot be uploaded to GitHub.  
 So in GitHub, `data/audio` is a **text file** that contains the link to the audio dataset.
 
