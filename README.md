@@ -3,7 +3,9 @@
 Repo layout follows the provided template:
 
 project/
+
   data/audio/
+  
   data/lyrics/
   notebooks/exploratory.ipynb
   src/{vae.py,dataset.py,clustering.py,evaluation.py}
