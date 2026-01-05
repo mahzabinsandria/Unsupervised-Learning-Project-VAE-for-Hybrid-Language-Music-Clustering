@@ -9,7 +9,7 @@ project/
   src/{vae.py,dataset.py,clustering.py,evaluation.py}
   results/latent_visualization/
   results/clustering_metrics.csv
-**Important course requirement:** audio files cannot be uploaded to GitHub.  
+**Important** audio files cannot be uploaded to GitHub.  
 So in GitHub, `data/audio` is a **text file** that contains the link to the audio dataset.
 
 ## Setup
