@@ -16,8 +16,6 @@ project/
   
   results/clustering_metrics.csv
   
-**Important** audio files cannot be uploaded to GitHub.  
-So in GitHub, `data/audio` is a **text file** that contains the link to the audio dataset.
 
 ## Setup
 pip install -r requirements.txt
@@ -38,6 +36,15 @@ This creates:
 - data/lyrics/tracks_av.csv    (id, audio_path, lyrics, language, genre)
 and copies audio into data/audio/jamendolyrics/
 
+AUDIO NOT INCLUDED IN GITHUB (too large)
+
+Google Drive folder link:
+https://drive.google.com/drive/folders/1uGaaCTVinSWNjrOC2g6QxxIe3dYLIcbW
+
+How to use:
+1) Mount Google Drive in Colab
+2) Copy the Drive audio folder into: data/audio/
+   
 ## 2) Datasets Used (Sources)
 
 ### Easy (Lyrics-only)
