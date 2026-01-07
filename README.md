@@ -38,8 +38,8 @@ and copies audio into data/audio/jamendolyrics/
 
 AUDIO NOT INCLUDED IN GITHUB (too large)
 
-Google Drive folder link:
-https://drive.google.com/drive/folders/1uGaaCTVinSWNjrOC2g6QxxIe3dYLIcbW
+Google Drive folder link for audio data can be found in data/audio/JamendoLyrics.txt
+
 
 How to use:
 1) Mount Google Drive in Colab
